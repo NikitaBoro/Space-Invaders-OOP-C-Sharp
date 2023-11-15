@@ -1,0 +1,141 @@
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\source\repos\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\source\repos\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\source\repos\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\source\repos\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\cs project 0.4 - Copy - Copy - Copy\New folder\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.Form3.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.Form4.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.Form5.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\project v0.7\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\project v0.7 - Copy\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\מדעי המחשב\CS Project\CS Project\obj\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\Project\CS Project\bin\Debug\CS Project.exe.config
+C:\Users\bonik\Desktop\Project\CS Project\bin\Debug\CS Project.exe
+C:\Users\bonik\Desktop\Project\CS Project\bin\Debug\CS Project.pdb
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.csproj.AssemblyReference.cache
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS_Project.Form2.resources
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS_Project.mainmenu.resources
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS_Project.Properties.Resources.resources
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.csproj.GenerateResource.cache
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.csproj.CoreCompileInputs.cache
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.exe
+C:\Users\bonik\Desktop\Project\CS Project\obj\Debug\CS Project.pdb
